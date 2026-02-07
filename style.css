@@ -1,0 +1,267 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+nav{
+    width:100;
+    height: 200px;
+    background-color: #0A192F;
+    text-align: center;
+    padding: 50px;
+}
+
+nav h1{
+    font-size: 40px;
+}
+
+nav p{
+    margin-top: 20px;
+    font-size: 25px;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.about{
+    background-color: #DBDBDB;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding: 40px;
+}
+
+.about h3{
+    color: black;
+    font-size: 30px;
+}
+
+.about p{
+    color:black;
+    margin-top: 20px;
+}
+
+
+.education{
+    background-color:#C6E7F3;
+    margin-top:25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding: 40px;
+}
+
+
+.education h3{
+    color:black;
+    font-size: 30px;
+}
+
+
+.education .college p{
+    background-color:white ;
+    margin-top: 10px;
+    color: black; 
+    margin:20px ;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+
+}
+
+
+.education .higher p{
+    background-color: white;
+    
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+.skills{
+    background-color:#FDE9AA;
+    margin-top:25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding: 40px;
+}
+
+
+
+.skills h3{
+    color:black;
+    font-size: 30px;
+}
+
+
+.skills .front p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight:bold ;
+
+}
+
+
+.skills .java p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight: bold;
+
+}
+
+
+.skills .js p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight: bold;
+
+}
+
+
+.skills .ui p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight: bold;
+
+}
+
+
+
+.projects{
+    background-color:#EDE6F9;
+    margin-top:25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding: 40px;
+}
+
+
+.projects h3{
+    color:black;
+    font-size: 30px;
+
+}
+
+
+
+.projects .port p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+.projects .land p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+.projects .blog p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+.contact{
+    background-color:#B8EFED;
+    margin-top:25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    padding: 40px;
+}
+
+
+.contact h3{
+    font-size: 30px;
+    color:black;
+}
+
+
+
+.contact .email p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.contact .phone p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+.contact .insta p{
+    background-color: white;
+    color:black;
+    margin: 10px;
+    padding:15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+    
+
+
+footer{
+    background-color: #0a192f;
+    width: 100%;
+    height: 50px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-top: 25px;
+
+}
